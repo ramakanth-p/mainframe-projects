@@ -1,0 +1,20 @@
+//EABRJ02  JOB 1,NOTIFY=&SYSUID
+//***************************************************/
+//DELDD    EXEC PGM=IEFBR14
+//NEWDD    DD DSN=&SYSUID..EABRF02,
+//            DISP=(MOD,DELETE,DELETE),
+//            SPACE=(TRK,(1,1)),
+//            DCB=(RECFM=VB,LRECL=137,BLKSIZE=0)
+//*
+//RUN     EXEC PGM=EABR02
+//STEPLIB   DD DSN=&SYSUID..LOAD,DISP=SHR
+//SYSOUT    DD SYSOUT=*,OUTLIM=15000
+//EABRF01   DD DSN=&SYSUID..EABRF01,
+//             DISP=(SHR)
+//EABRF02   DD DSN=&SYSUID..EABRF02,
+//            DISP=(NEW,CATLG,DELETE),
+//            SPACE=(TRK,(1,1)),
+//            DCB=(RECFM=VB,LRECL=137,BLKSIZE=0)
+//CEEDUMP   DD SYSOUT=*
+//SYSUDUMP  DD SYSOUT=*
+//*

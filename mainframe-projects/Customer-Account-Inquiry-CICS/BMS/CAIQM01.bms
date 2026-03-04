@@ -1,0 +1,74 @@
+*
+CAIQM01  DFHMSD TYPE=MAP,MODE=INOUT,LANG=COBOL,STORAGE=AUTO,           X
+               CTRL=FREEKB
+*
+CAIQM01  DFHMDI SIZE=(24,80),LINE=1,COLUMN=1
+*
+*--------------------------------------------------------------------*
+*  TITLE
+*--------------------------------------------------------------------*
+TITLE    DFHMDF POS=(2,20),LENGTH=31,ATTRB=(PROT,ASKIP,BRT),           X
+               INITIAL='Customer Account Inquiry System'
+*
+*--------------------------------------------------------------------*
+*  INPUT FIELD - CUSTOMER ID
+*--------------------------------------------------------------------*
+CUSTIDL  DFHMDF POS=(5,10),LENGTH=14,ATTRB=(PROT,ASKIP),               X
+               INITIAL='Customer ID'
+COL1     DFHMDF POS=(5,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+CUSTID   DFHMDF POS=(5,28),LENGTH=10,ATTRB=(UNPROT,IC,FSET,BRT)
+FILL1    DFHMDF POS=(5,39),LENGTH=20,ATTRB=(PROT)
+*
+*--------------------------------------------------------------------*
+*  OUTPUT FIELDS
+*--------------------------------------------------------------------*
+NAMEL    DFHMDF POS=(7,10),LENGTH=14,ATTRB=(PROT,ASKIP),               X
+               INITIAL='Customer Name'
+COL2     DFHMDF POS=(7,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+NAMEO    DFHMDF POS=(7,28),LENGTH=30,ATTRB=(PROT)
+*
+TYPEL    DFHMDF POS=(9,10),LENGTH=14,ATTRB=(PROT,ASKIP),               X
+               INITIAL='Account Type'
+COL3     DFHMDF POS=(9,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+TYPEO    DFHMDF POS=(9,28),LENGTH=10,ATTRB=(PROT)
+*
+BRCDL    DFHMDF POS=(11,10),LENGTH=14,ATTRB=(PROT,ASKIP),              X
+               INITIAL='Branch Code'
+COL4     DFHMDF POS=(11,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+BRCDO    DFHMDF POS=(11,28),LENGTH=6,ATTRB=(PROT)
+*
+BALL     DFHMDF POS=(13,10),LENGTH=14,ATTRB=(PROT,ASKIP),              X
+               INITIAL='Balance'
+COL5     DFHMDF POS=(13,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+BALO     DFHMDF POS=(13,28),LENGTH=15,ATTRB=(PROT)
+*
+STATL    DFHMDF POS=(15,10),LENGTH=14,ATTRB=(PROT,ASKIP),              X
+               INITIAL='Status'
+COL6     DFHMDF POS=(15,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+STATO    DFHMDF POS=(15,28),LENGTH=10,ATTRB=(PROT)
+*
+ADDR1L   DFHMDF POS=(17,10),LENGTH=14,ATTRB=(PROT,ASKIP),              X
+               INITIAL='Address1'
+COL7     DFHMDF POS=(17,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+ADDR1O   DFHMDF POS=(17,28),LENGTH=25,ATTRB=(PROT)
+*
+ADDR2L   DFHMDF POS=(19,10),LENGTH=14,ATTRB=(PROT,ASKIP),              X
+               INITIAL='Address2'
+COL8     DFHMDF POS=(19,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+ADDR2O   DFHMDF POS=(19,28),LENGTH=20,ATTRB=(PROT)
+*
+ADDR3L   DFHMDF POS=(21,10),LENGTH=14,ATTRB=(PROT,ASKIP),              X
+               INITIAL='Address3'
+COL9     DFHMDF POS=(21,24),LENGTH=4,ATTRB=(PROT,ASKIP),INITIAL=':   '
+ADDR3O   DFHMDF POS=(21,28),LENGTH=15,ATTRB=(PROT)
+*--------------------------------------------------------------------*
+*  MESSAGE LINE
+*--------------------------------------------------------------------*
+MSGL     DFHMDF POS=(23,10),LENGTH=60,ATTRB=(PROT,ASKIP,BRT),          X
+               COLOR=RED
+*
+         DFHMDF POS=(24,5),LENGTH=20,ATTRB=(PROT,BRT),                 X
+               INITIAL='PF3=EXIT'
+*
+         DFHMSD TYPE=FINAL
+         END

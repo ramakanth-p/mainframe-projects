@@ -1,0 +1,45 @@
+George         WASHINGTON          1 General Dr.            Westmoreland County Virginia       1789179700100000{00001887D
+John           ADAMS               2 Harvard Lawyer         Braintree           Massachusetts  1797180100100000{00031883C
+Thomas         JEFFERSON           3 Planter St.            Albemarle County    Virginia       1801180900100000{00070081C
+James          MADISON             4 Good Wife St.          Port Conway         Virginia       1809181700100000{00005031C
+James          MONROE              5 Honest Ln.             Westmoreland County Virginia       1817182500100000{00313131C
+John Quincy    ADAMS II            6 Harvard Lawyer         Braintree           Massachusetts  1825182900100000{00312503C
+Andrew         JACKSON             7 Brawler St.            Waxhaw              South Carolina 1829183700100000{00033183{
+Martin         VAN BUREN           8 Dutch Rd.              Columbia            New York       1837184100100000{00003250{
+William Henry  HARRISON            9 Medicine St.           Charles City County Virginia       1841184100100000{00003135{
+John           TYLER               10 Accidency Ln.         Charles City County Virginia       1841184500100000{00001216E
+James          POLK                11 Strong Way            Mecklenburg County  North Carolina 1845184900100000{00003140E
+Zachary        TAYLOR              12 Army Rd.              Orange County       Virginia       1849185000100000{00008282{
+Millard        FILLMORE            13 American Dream St.    Cayuga County       New York       1850185300100000{00003731{
+Franklin       PIERCE              14 Lost Son              Hillsboro           New Hampshire  1853185700100000{00003150G
+James          BUCHANAN            15 Debater Rd.           Mercersburg         Pennslyvania   1857186100100000{00000079{
+Abraham        LINCOLN             16 Civil War Ln.         Hodgenville         Kentucky       1861186501000000{00003131C
+Andrew         JOHNSON             17 Ruthless Rd.          Raleigh             North Carolina 1865186901000000{00006031D
+Ulysses S.     GRANT               18 Bewildered St.        Point Pleasant      Ohio           1869187701000000{00323183{
+Rutherford B.  HAYES               19 No Booze St.          Delaware            Ohio           1877188101000000{00058605E
+James          GARFIELD            20 Professor Ln.         Orange              Ohio           1881188101000000{00056002G
+Chester        ARTHUR              21 Teacher Ln.           Fairfield           Vermont        1881188501000000{00310702C
+Grover         CLEVELAND           22 Focused St.           Caldwell            New Jersey     1885188901000000{00993131{
+Benjamin       HARRISON II         23 Little Ben Ln.        North Bend          Ohio           1889189301000000{00050031C
+Grover         CLEVELAND II        24 Imback Rd.            Caldwell            New Jersey     1893189701000000{00400502D
+William        MCKINLEY            25 Tariff Expert St.     Niles               Ohio           1897190101000000{00319501C
+Theodore       ROOSEVELT           26 Young St.             New York            New York       1901190910000000{07813194C
+William H.     TAFT                27 Middle Way            Cincinnati          Ohio           1909191310000000{00401997C
+Woodrow        WILSON              28 World War I St.       Staunton            Virginia       1913192110000000{00840331C
+Warren         HARDING             29 Phrases Rd.           Corsica             Ohio           1921192310000000{00118292G
+Calvin         COOLIDGE            30 Practical Ln.         Plymouth            Vermont        1923192910000000{00106192{
+Herbert        HOOVER              31 Engineer St.          West Branch         Iowa           1929193310000000{00313183C
+Franklin D.    ROOSEVELT II        32 Great Depression St.  Hyde Park           New York       1933194550000000{00313102C
+Harry          TRUMAN              33 Soldier Way           Lamar               Missouri       1945195350000000{00609925C
+Dwight         EISENHOWER          34 Cold War St.          Denison             Texas          1953196150000000{00325025{
+John F.        KENNEDY             35 Youngest Rd.          Brookline           Massachusetts  1961196317000000{50840351C
+Lyndon         JOHNSON II          36 Turbulent St.         Stonewall           Texas          1963196917000000{00008331C
+Richard        NIXON               37 Watergate Rd.         Yorba Linda         California     1969197417000000{00006003D
+Gerald         FORD                38 Coors Ln.             Omaha               Nebraska       1974197717000000{50513184{
+Jimmy          CARTER              39 Peanut Rd.            Plains              Georgia        1977198101000000{31188261{
+Ronald         REAGAN              40 Actor St.             Tampico             Illinois       1981198901000000{00502788{
+George H.W.    BUSH                41 Pilot St.             Milton              Massachusetts  1989199301000000{00407931{
+William J.     CLINTON             42 Hillary Rd.           Hope                Arkansas       1993200101000000{81183131D
+George W.      BUSH II             43 Tex St.               New Haven           Connecticut    2001200901000000{00313132{
+Barack H.      OBAMA               44 Organizer St.         Honolulu            Hawaii         2009201799500000{00923110{
+Donald J.      TRUMP               45 Business Rd.          New York            New York       2017202181000000{00000100{

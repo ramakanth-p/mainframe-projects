@@ -1,0 +1,54 @@
+1------------------------------------------------------------------------------------------------------------------------------------
+                                                   ACCOUNT REPORT                                              PAGE:   1             
+ DATE: 2026-03-03                                                                                              TIME: 23-14-52        
+ ------------------------------------------------------------------------------------------------------------------------------------
+ ACCTNO    FIRST NAME      SUR NAME            LIMIT        BALANCE      ADDRESS1                 ADDRESS2            ADDRESS3       
+ ------------------------------------------------------------------------------------------------------------------------------------
+ 17891797 George         WASHINGTON             10,000.00       188.74 1 General Dr.            Westmoreland County Virginia         
+ 17971801 John           ADAMS                  10,000.00     3,188.33 2 Harvard Lawyer         Braintree           Massachusetts    
+ 18011809 Thomas         JEFFERSON              10,000.00     7,008.13 3 Planter St.            Albemarle County    Virginia         
+ 18091817 James          MADISON                10,000.00       503.13 4 Good Wife St.          Port Conway         Virginia         
+ 18171825 James          MONROE                 10,000.00    31,313.13 5 Honest Ln.             Westmoreland County Virginia         
+ 18251829 John Quincy    ADAMS II               10,000.00    31,250.33 6 Harvard Lawyer         Braintree           Massachusetts    
+ 18291837 Andrew         JACKSON                10,000.00     3,318.30 7 Brawler St.            Waxhaw              South Carolina   
+ 18371841 Martin         VAN BUREN              10,000.00       325.00 8 Dutch Rd.              Columbia            New York         
+ 18411841 William Henry  HARRISON               10,000.00       313.50 9 Medicine St.           Charles City County Virginia         
+ 18411845 John           TYLER                  10,000.00       121.65 10 Accidency Ln.         Charles City County Virginia         
+ 18451849 James          POLK                   10,000.00       314.05 11 Strong Way            Mecklenburg County  North Carolina   
+ 18491850 Zachary        TAYLOR                 10,000.00       828.20 12 Army Rd.              Orange County       Virginia         
+ 18501853 Millard        FILLMORE               10,000.00       373.10 13 American Dream St.    Cayuga County       New York         
+ 18531857 Franklin       PIERCE                 10,000.00       315.07 14 Lost Son              Hillsboro           New Hampshire    
+ 18571861 James          BUCHANAN               10,000.00         7.90 15 Debater Rd.           Mercersburg         Pennslyvania     
+ 18611865 Abraham        LINCOLN               100,000.00       313.13 16 Civil War Ln.         Hodgenville         Kentucky         
+ 18651869 Andrew         JOHNSON               100,000.00       603.14 17 Ruthless Rd.          Raleigh             North Carolina   
+ 18691877 Ulysses S.     GRANT                 100,000.00    32,318.30 18 Bewildered St.        Point Pleasant      Ohio             
+ 18771881 Rutherford B.  HAYES                 100,000.00     5,860.55 19 No Booze St.          Delaware            Ohio             
+ 18811881 James          GARFIELD              100,000.00     5,600.27 20 Professor Ln.         Orange              Ohio             
+ 18811885 Chester        ARTHUR                100,000.00    31,070.23 21 Teacher Ln.           Fairfield           Vermont          
+ 18851889 Grover         CLEVELAND             100,000.00    99,313.10 22 Focused St.           Caldwell            New Jersey       
+ 18891893 Benjamin       HARRISON II           100,000.00     5,003.13 23 Little Ben Ln.        North Bend          Ohio             
+ 18931897 Grover         CLEVELAND II          100,000.00    40,050.24 24 Imback Rd.            Caldwell            New Jersey       
+ 18971901 William        MCKINLEY              100,000.00    31,950.13 25 Tariff Expert St.     Niles               Ohio             
+ 19011909 Theodore       ROOSEVELT           1,000,000.00   781,319.43 26 Young St.             New York            New York         
+ 19091913 William H.     TAFT                1,000,000.00    40,199.73 27 Middle Way            Cincinnati          Ohio             
+ 19131921 Woodrow        WILSON              1,000,000.00    84,033.13 28 World War I St.       Staunton            Virginia         
+ 19211923 Warren         HARDING             1,000,000.00    11,829.27 29 Phrases Rd.           Corsica             Ohio             
+ 19231929 Calvin         COOLIDGE            1,000,000.00    10,619.20 30 Practical Ln.         Plymouth            Vermont          
+ 19291933 Herbert        HOOVER              1,000,000.00    31,318.33 31 Engineer St.          West Branch         Iowa             
+ 19331945 Franklin D.    ROOSEVELT II        5,000,000.00    31,310.23 32 Great Depression St.  Hyde Park           New York         
+ 19451953 Harry          TRUMAN              5,000,000.00    60,992.53 33 Soldier Way           Lamar               Missouri         
+ 19531961 Dwight         EISENHOWER          5,000,000.00    32,502.50 34 Cold War St.          Denison             Texas            
+ 19611963 John F.        KENNEDY             1,700,000.00 5,084,035.13 35 Youngest Rd.          Brookline           Massachusetts    
+ 19631969 Lyndon         JOHNSON II          1,700,000.00       833.13 36 Turbulent St.         Stonewall           Texas            
+ 19691974 Richard        NIXON               1,700,000.00       600.34 37 Watergate Rd.         Yorba Linda         California       
+ 19741977 Gerald         FORD                1,700,000.00 5,051,318.40 38 Coors Ln.             Omaha               Nebraska         
+ 19771981 Jimmy          CARTER                100,000.00 3,118,826.10 39 Peanut Rd.            Plains              Georgia          
+ 19811989 Ronald         REAGAN                100,000.00    50,278.80 40 Actor St.             Tampico             Illinois         
+ 19891993 George H.W.    BUSH                  100,000.00    40,793.10 41 Pilot St.             Milton              Massachusetts    
+ 19932001 William J.     CLINTON               100,000.00 8,118,313.14 42 Hillary Rd.           Hope                Arkansas         
+ 20012009 George W.      BUSH II               100,000.00    31,313.20 43 Tex St.               New Haven           Connecticut      
+ 20092017 Barack H.      OBAMA               9,950,000.00    92,311.00 44 Organizer St.         Honolulu            Hawaii           
+ 20172021 Donald J.      TRUMP               8,100,000.00        10.00 45 Business Rd.          New York            New York         
+ ------------------------------------------------------------------------------------------------------------------------------------
+0TOTAL RECORDS:        45          TOTAL BALANCE:    23,004,207.47                                                                   
+ ------------------------------------------------------------------------------------------------------------------------------------
